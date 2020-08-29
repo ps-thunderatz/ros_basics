@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
 """
-Tente implementar um node que controle a sua tartaruga para que ela desenha um quadrado na tela.
+Tente implementar um node que controle a sua tartaruga para que ela desenhe um quadrado na tela.
 
 Quando terminar, crie um launch file que execute o seu node e a simulação. E lembre de
-atualizar o CMakeLists!!
+atualizar o CMakeLists com seu novo script!!
 """
 
 # Quais outros pacotes precisam ser importados?

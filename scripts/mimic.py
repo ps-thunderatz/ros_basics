@@ -6,7 +6,7 @@ quais tópicos estão sendo publicados e por quem. Da onde você pode pegar as i
 Esse problema tem mais de uma solução possível, pense bem como resolver!
 
 Quando terminar, edite o launch file para que o node executado seja o seu próprio. E lembre de
-atualizar o CMakeLists!!
+atualizar o CMakeLists com seu novo script!!
 """
 
 # Quais outros pacotes precisam ser importados?
