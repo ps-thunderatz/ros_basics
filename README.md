@@ -81,7 +81,7 @@ sudo apt install ros-noetic-ros-tutorials
 
 1. Square
 
-    Na pasta script, você irá encontrar o arquivo `square.py`. Utilize ele para implementar um node que controla a sua tartaruga para que ela desenha continuamente um quadrado na tela. Instruções mais detalhadas se encontram no próprio arquivo.
+    Na pasta script, você irá encontrar o arquivo `square.py`. Utilize ele para implementar um node que controla a sua tartaruga para que ela desenhe continuamente um quadrado na tela. Instruções mais detalhadas se encontram no próprio arquivo.
 
 2. Mimic
 
